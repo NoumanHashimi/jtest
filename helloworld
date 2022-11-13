@@ -4,6 +4,4 @@ first_word= all_words[0]
 if first_word == "Hello":
     print(string)
 else:
-    print("Hello not available in string")    
-
- 
+    print("Hello not available in string")
