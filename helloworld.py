@@ -1,4 +1,4 @@
-string = "Hi World"
+string = "Hello World"
 all_words = string.split()
 first_word= all_words[0]
 if first_word == "Hello":
