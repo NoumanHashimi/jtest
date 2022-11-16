@@ -2,6 +2,6 @@ string = "Hi World"
 all_words = string.split()
 first_word= all_words[0]
 if first_word != "Hello":
-    raise Exception("Hello Not Found!")
+    return 1
 else:
-    print(string)
+    return 0
