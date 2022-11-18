@@ -1,5 +1,5 @@
-from jtest.logic import my_function
+from jtest.logic import my_func
 
-my_function("Hello World")
+my_func("Hello World")
 
 
